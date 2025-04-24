@@ -1,0 +1,52 @@
+[
+    {
+        "FullName": "Зайцева Юлия Ивановна",
+        "ContactInfo": "ivan@example.com",
+        "BorrowedBooks": {}
+    },
+    {
+        "FullName": "Лазаренко Александр Викторович",
+        "ContactInfo": "crazy.alex@gmail.com",
+        "BorrowedBooks": {}
+    },
+    {
+        "FullName": "Смирнов Олег Петрович",
+        "ContactInfo": "oleg.smirnov@mail.ru",
+        "BorrowedBooks": {}
+    },
+    {
+        "FullName": "Иванова Мария Сергеевна",
+        "ContactInfo": "masha.ivanova@yandex.ru",
+        "BorrowedBooks": {}
+    },
+    {
+        "FullName": "Козлов Дмитрий Алексеевич",
+        "ContactInfo": "dmitry.kozlov@rambler.ru",
+        "BorrowedBooks": {}
+    },
+    {
+        "FullName": "Петрова Анна Владимировна",
+        "ContactInfo": "anna.petrovna@gmail.com",
+        "BorrowedBooks": {}
+    },
+    {
+        "FullName": "Соколов Виктор Николаевич",
+        "ContactInfo": "sokolov.viktor@outlook.com",
+        "BorrowedBooks": {}
+    },
+    {
+        "FullName": "Морозов Сергей Андреевич",
+        "ContactInfo": "sergey.morozov@ya.ru",
+        "BorrowedBooks": {}
+    },
+    {
+        "FullName": "Волкова Екатерина Артемовна",
+        "ContactInfo": "katya.volkova@mail.ru",
+        "BorrowedBooks": {}
+    },
+    {
+        "FullName": "Федоров Николай Васильевич",
+        "ContactInfo": "nikolay.fedorov@gmail.com",
+        "BorrowedBooks": {}
+    }
+]
